@@ -1,2 +1,2 @@
 # observability
-Analyzing collected environment information ( _logs_, _metrics_, _traces_, etc. ) and transforming them into meaningful **Key Peformance Indicators (KPIs)** to be reported.
+Analyzing collected environment information (i.e., **logs**, **metrics**, **traces**) and transforming them into meaningful **Key Peformance Indicators (KPIs)** to be reported.
