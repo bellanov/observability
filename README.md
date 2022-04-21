@@ -1,4 +1,2 @@
 # observability
-Tools to help understand internal system state by analyzing _logs_, _metrics_, _traces_, etc.
-
-System state is summarized by a set of predefined metrics, commonly known as **Key Performance Indicators (KPIs)**.
+Analyzing collected environment information ( _logs_, _metrics_, _traces_, etc. ) and transforming them into meaningful **Key Peformance Indicators (KPIs)** to be reported.
